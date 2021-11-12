@@ -35,7 +35,7 @@ googleplus_username: +jekyll
 
 # Additional icon links
 additional_links:
-- title: Link name
+- title: зааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: Link url (eg. https://google.com)
 # - title: another link
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
+    - <a href="https://www.facebook.com/Bojakta/">Links</a>
     - Images ![alt text](/images/bg.jpg)
 
 content:
