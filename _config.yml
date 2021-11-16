@@ -86,11 +86,16 @@ content:
     layout: list
     content:
       - layout: right
-        title: Vitosha 13
+        title: VITOSHA 13
         sub_title: Director
         caption: Date Range (August 2017 - March 2020)
         link: http://www.vitosha-academy.com/bg
         quote: >
+        Head of sport Academy
+        
+        title: AK MANAGEMENT
+        sub_title: ADMINISTRATOR and TECHNICAL SUPPORT
+        caption: Date Range (March 2014 - August 2017)
           
         description: | # this will include new lines to allow paragraphs
           Description of role
