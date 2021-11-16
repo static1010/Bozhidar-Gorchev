@@ -47,10 +47,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/bg.jpg
 about_content:  | # this will include new lines to allow paragraphs 
-   |Solution-driven professional excelling in highly collaborative work environment, finding solutions|
-  |to challenges and focused on customer satisfaction. My interest and knowledge are in a JavaScript and React.|
-  |Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating|
-   |solutions into code.
+   Solution-driven professional excelling in highly collaborative work environment, finding solutions
+   to challenges and focused on customer satisfaction. My interest and knowledge are in a JavaScript and React.
+   Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating
+   solutions into code.
 
  I work on my own project with follow technologies: REACT | JavaScript | CSS | HTML5
   
