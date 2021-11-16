@@ -70,7 +70,7 @@ content:
       - layout: left
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: https://static1010.github.io/Food-Order/
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
