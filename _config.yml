@@ -68,8 +68,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Food Order
+        link: https://static1010.github.io/Food-Order/
         link_text: https://static1010.github.io/Food-Order/
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
