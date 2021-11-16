@@ -47,7 +47,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/bg.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Solution-driven professional excelling in highly collaborative work environment, finding solutions
+  to challenges and focused on customer satisfaction. My interest and knowledge are in a JavaScript and React.
+  Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating
+  solutions into code.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
