@@ -96,7 +96,7 @@ content:
        
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Experience
+  - title: More Experience
     layout: list
     content:
       - layout: right
