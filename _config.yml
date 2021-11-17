@@ -97,7 +97,7 @@ content:
         
        
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Head of a sport Academy with twenty coaches and two hundred children in period of three years.
   - title: More Experience
     layout: list
     content:
@@ -110,7 +110,7 @@ content:
            Technical support
         
         description: | # this will include new lines to allow paragraphs
-          Description of role          
+          Responsible for the entire administration, documentation and organization of the company AK Managment.          
   - title: Education
     layout: list
     content:
