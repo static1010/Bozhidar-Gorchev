@@ -122,8 +122,8 @@ content:
           Short courses description:
         description: | # this will include new lines to allow paragraphs
       - layout: left
-        sub_title: | HTML/CSS/JAVASCRIPT - SOFT ACADEMY / PLURALSIGHT > (September 2020 - December 2020) 
-                     # zAAAAAAAA
+        sub_title: > HTML/CSS/JAVASCRIPT - SOFT ACADEMY / PLURALSIGHT > (September 2020 - December 2020) 
+                  
           
   - title: A Little More About Me
     layout: text
