@@ -133,9 +133,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      I study programming for more than a year. I went through many courses to learn HTML, CSS, Database, JavaScript, React. 
+      I spend all my time studying in the field of programming and I dream of realizing myself in this field.
+      I graduated in marketing and management. During my career I worked mainly as a technical assistant and head of a sports academy with two hundred children and twenty teachers.
+      I have organized many charity campaigns to help children and their better 
+      A year ago, I discovered my new passion in programming and decided to take on this new challenge.
+      My hobbies are football, snowboarding, cinema, fitness, cooking, good music.
 
 # Footer
 footer_show_references: true
