@@ -120,7 +120,7 @@ content:
         caption: Date Range ( September 2009 - September 2014)
         quote: >
           Short courses description:
-        skills: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphss
            - HTML/CSS/JAVASCRIPT - SOFT ACADEMY / PLURALSIGHT (September 2020 - December 2020) 
            - aaZ/CSS/JAVASCRIPT - SOFT ACADEMY / PLURALSIGHT (September 2020 - December 2020) 
           
