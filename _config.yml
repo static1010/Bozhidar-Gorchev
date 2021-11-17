@@ -120,7 +120,7 @@ content:
         caption: Date Range ( September 2009 - September 2014)
         quote: >
           Short courses description:
-        description: | # this will include new lines to allow paragraphs
+        content: | # this will include new lines to allow paragraphs
            # HTML/CSS/JAVASCRIPT - SOFT ACADEMY / PLURALSIGHT (September 2020 - December 2020) 
            # ZZZ/CSS/JAVASCRIPT - SOFT ACADEMY / PLURALSIGHT (September 2020 - December 2020) 
   - title: A Little More About Me
