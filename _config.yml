@@ -31,7 +31,7 @@ linkedin_username: bozhidar-gorchev-70187b203
 # Additional icon links
 additional_links:
 - title: зааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://www.facebook.com/Bojakta/)
+icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://www.facebook.com/Bojakta/)
   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://www.facebook.com/Bojakta/)
