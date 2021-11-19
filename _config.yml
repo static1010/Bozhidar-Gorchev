@@ -66,14 +66,14 @@ about_content:  | # this will include new lines to allow paragraphs
     
 
 content:
-   - title:  Projects # Title for the section
-    layout:  list # Type of content section (list/text)
+   - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-      - layout:  left
-        title:  Food  Order
+      - layout: left
+        title: Food Order
         link: https://static1010.github.io/Food-Order/
         link_text: 
-        additional_links:
+        additional_links: 
           - title:  Food Order
             icon: fab fa-github
             url:  https://static1010.github.io/Food-Order/
@@ -83,8 +83,8 @@ content:
    - title:  More Projects
     layout: list
     content:
-        layout:  left
-        title:  Calendar for expenses
+        layout: left
+        title: Calendar for expenses
         link:  https://github.com/static1010/Calendar-for-expenses.git
     description: | # this will include new lines to allow paragraphs
           Тhe project provides information on costs over months and years. It is built on React  
