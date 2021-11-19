@@ -86,28 +86,7 @@ content:
                The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
                
                
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Expenses
-        link: https://github.com/static1010/Calendar-for-expenses.git
-        link_text: https://github.com/static1010/Calendar-for-expenses.git
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Description: 
-        description: | # this will include new lines to allow paragraphs
-               The project is built for the purchase of expenses types of GOOOOD. It is built on React, CSS modules are used for styling.           
-               
-               
-               
-               
-               
+    
   - title: Experience
     layout: list
     content:
