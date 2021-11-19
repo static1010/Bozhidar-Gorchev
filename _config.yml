@@ -72,7 +72,7 @@ content:
       - layout: left
         title: Food Order
         link: https://static1010.github.io/Food-Order/
-        link_text: https://static1010.github.io/Food-Order/
+        link_text: 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
