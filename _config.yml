@@ -84,7 +84,7 @@ content:
   - title:  More Projects
     layout: list
     content:
-      - layout:  left
+        layout:  left
         title:  Calendar for expenses
         link:  https://github.com/static1010/Calendar-for-expenses.git
        quote: >
