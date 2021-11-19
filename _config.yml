@@ -51,7 +51,6 @@ about_content:  | # this will include new lines to allow paragraphs
    to challenges and focused on customer satisfaction. My interest and knowledge are in a JavaScript and React.
    Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating
    solutions into code.
-
      I work on my own project with follow technologies:  
        - RACT 
        - JavaScript
@@ -64,11 +63,10 @@ about_content:  | # this will include new lines to allow paragraphs
     
   
     
-
 content:
    - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+     content:
       - layout: left
         title: Food Order
         link: https://static1010.github.io/Food-Order/
@@ -79,19 +77,18 @@ content:
             url:  https://static1010.github.io/Food-Order/
         description:   |  # this will include new lines to allow paragraphs
          The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
-
    - title:  More Projects
     layout: list
-    content:
+     content:
         layout: left
         title: Calendar for expenses
         link:  https://github.com/static1010/Calendar-for-expenses.git
-    description: | # this will include new lines to allow paragraphs
+     description: | # this will include new lines to allow paragraphs
           Тhe project provides information on costs over months and years. It is built on React  
  
    - title: Experience
     layout: list
-    content:
+     content:
       - layout: right
         title: VITOSHA 13
         sub_title: DIRECTOR
@@ -104,7 +101,7 @@ content:
                Head of a sport Academy with twenty coaches and two hundred children in period of three years.
    - title: More Experience
     layout: list
-    content:
+     content:
       - layout: right
         title: AK MANAGEMENT
         sub_title: ADMINISTRATOR and TECHNICAL SUPPORT
@@ -120,7 +117,7 @@ content:
              
    - title: Education
     layout: list
-    content:
+     content:
       - layout: top-right
         title: MTM College
         sub_title: MARKETING AND MANAGMENT (Bachelor dregree)
@@ -139,14 +136,13 @@ content:
       
    - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+     content: | # this will include new lines to allow paragraphs
       I study programming for more than a year. I went through many courses to learn HTML, CSS, Database, JavaScript, React. 
       I spend all my time studying in the field of programming and I dream of realizing myself in this field.
       I graduated in marketing and management. During my career I worked mainly as a technical assistant and head of a sports academy with two hundred children and twenty teachers.
       I have organized many charity campaigns to help children and their better future.
       A year ago i discovered my new passion in programming and decided to take on this new challenge.
       My hobbies are football, snowboarding, cinema, fitness, cooking, good music.
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
