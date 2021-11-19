@@ -89,7 +89,8 @@ content:
         link:  https://github.com/static1010/Calendar-for-expenses.git
        quote: >
           Тhe project provides information on costs over months and years. It is built on React
-       description: | # this will include new lines to allow paragraphs
+      
+      description: | # this will include new lines to allow paragraphs
           Тhe project provides information on costs over months and years. It is built on React  
  
    - title: Experience
