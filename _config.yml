@@ -82,27 +82,22 @@ content:
           Description: 
         description: | # this will include new lines to allow paragraphs
                The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
-               
-content:
-  - title: Море Projects # Title for the section
-    layout: list # Type of content section (list/text)
+
+  - title: Море Projects
+    layout: list
     content:
       - layout: left
         title: Calendar for expenses
+        sub_title: DIRECTOR
+        caption: Date Range (August 2017 - March 2020)
         link: https://github.com/static1010/Calendar-for-expenses.git
-        link_text: 
-        additional_links:
-          - title:  Calendar for expenses
-            icon: fab fa-github
-            url: https://github.com/static1010/Calendar-for-expenses.git
-          
-        quote: >
-          Description: 
+        quote: > 
+           The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
+        
+       
         description: | # this will include new lines to allow paragraphs
-               The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
-
-
-    
+          Head of a sport Academy with twenty coaches and two hundred children in period of three years.
+      
   - title: Experience
     layout: list
     content:
