@@ -74,9 +74,9 @@ content:
         link: https://static1010.github.io/Food-Order/
         link_text: 
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Expenses
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://static1010.github.io/Calendar-for-expenses/
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
