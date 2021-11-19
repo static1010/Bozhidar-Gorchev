@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
                The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
 
-  - title: More Projects
+   - title: More Projects
     layout: list
     content:
       - layout: left
@@ -92,7 +92,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Тhe project provides information on costs over months and years. It is built on React  
  
- - title: Experience
+   - title: Experience
     layout: list
     content:
       - layout: right
