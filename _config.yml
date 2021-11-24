@@ -81,7 +81,7 @@ content:
    - title:  More Projects
     layout: list
      content:
-        layout: left
+        layout: right
         title: Calendar for expenses
         link:  https://github.com/static1010/Calendar-for-expenses.git
      description: | # this will include new lines to allow paragraphs
