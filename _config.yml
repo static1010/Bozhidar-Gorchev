@@ -76,6 +76,7 @@ content:
             icon: fab fa-github
             url:  https://static1010.github.io/Food-Order/
         description:   |  # this will include new lines to allow paragraphs
+        
            The project is built for the purchase of different types of food. It is built on React, CSS modules are used for styling.
          
    - title:  More Projects
@@ -85,6 +86,7 @@ content:
         title: Calendar for expenses
         link:  https://github.com/static1010/Calendar-for-expenses.git
      description: | # this will include new lines to allow paragraphs
+     
           Тhe project provides information on costs over months and years. It is built on React  
  
    - title: Experience
@@ -100,6 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           
                Head of a sport Academy with twenty coaches and two hundred children in period of three years.
+               
    - title: More Experience
     layout: list
      content:
