@@ -75,7 +75,7 @@ content:
             title:  Food Order
             icon: fab fa-github
             url:  https://static1010.github.io/Food-Order/
-     description:   |  # this will include new lines to allow paragra  
+         description:   |  # this will include new lines to allow paragra  
                The project is built for the purchase of different types   of food. It is built on React, CSS modules are used   for styling.
          
    - title:  More Projects
@@ -98,7 +98,7 @@ content:
        link: http://www.vitosha-academy.com/bg
      
        
-     description:  |  # this will include new lines to allow paragraphs
+       description:  |  # this will include new lines to allow paragraphs
           
                Head of a sport Academy with twenty coaches and two hundred children in period of three years.
                
@@ -113,7 +113,7 @@ content:
         quote: > 
            Technical support
         
-      description:  |  # this will include new lines to allow paragraphs
+        description:  |  # this will include new lines to allow paragraphs
           
              Responsible for the entire administration, documentation and organization of the company AK Managment.   
              
