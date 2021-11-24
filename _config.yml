@@ -84,7 +84,7 @@ content:
      - layout: left
        title: Calendar for expenses
        link:  https://github.com/static1010/Calendar-for-expenses.git
-     description: | # this will include new lines to allow paragraphs
+       description: | # this will include new lines to allow paragraphs
      
           Тhe project provides information on costs over months and years. It is built on React  
  
@@ -98,7 +98,7 @@ content:
        link: http://www.vitosha-academy.com/bg
      
        
-       description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           
                Head of a sport Academy with twenty coaches and two hundred children in period of three years.
                
