@@ -75,7 +75,7 @@ content:
             title:  Food Order
             icon: fab fa-github
             url:  https://static1010.github.io/Food-Order/
-     description:   |  # this will include new lines to allow paragra  
+         description:   |  # this will include new lines to allow paragra  
                The project is built for the purchase of different types   of food. It is built on React, CSS modules are used   for styling.
          
    - title:  More Projects
