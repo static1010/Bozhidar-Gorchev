@@ -113,7 +113,7 @@ content:
         quote: > 
            Technical support
         
-        description:  |  # this will include new lines to allow paragraphs
+      description:  |  # this will include new lines to allow paragraphs
           
              Responsible for the entire administration, documentation and organization of the company AK Managment.   
              
